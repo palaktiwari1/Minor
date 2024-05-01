@@ -1,0 +1,29 @@
+.flex-row1{
+    display: flex;
+    flex-direction:row;
+    align-items:flex-end;
+    gap: 6px;
+    justify-content:end;
+  }
+  
+ 
+.btn1 {
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width:auto;
+    height: 50px;
+    border-radius: 10px;
+    display:flex;
+    /* justify-content:center; */
+    align-items: center;
+    font-weight: 450;
+    font-size: 14px;
+    gap: 4px;
+    border: 1px solid #ededef;
+    background-color: #fff0f4;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    /* align-content:end; */
+  }
+ 
