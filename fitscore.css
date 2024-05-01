@@ -1,0 +1,15 @@
+.card__progress progress {
+    width: 100%;
+    height: 4px;
+    border-radius: 100px;
+  }
+  
+  .card__progress progress::-webkit-progress-bar {
+    background-color: #ffafc8;
+    border-radius: 100px;
+  }
+  
+  .card__progress progress::-webkit-progress-value {
+    background-color:#ff407D;
+    border-radius: 100px;
+  }
